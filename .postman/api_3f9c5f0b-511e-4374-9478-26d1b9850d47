@@ -9,8 +9,9 @@ id = 3f9c5f0b-511e-4374-9478-26d1b9850d47
 
 [config.relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"11058592-3a3876a8-4d5f-4724-9de8-6afc76acd044","path":"AIChats.json","metaData":{}}
-files[] = {"id":"11058592-47c1b3bc-59db-466a-b1c5-7530131f8d5d","path":"Conversation.json","metaData":{}}
+files[] = {"id":"11058592-06566c83-48bb-4b6b-a9d7-4a26c911c19d","path":"AIChats.json","metaData":{}}
+files[] = {"id":"11058592-78c4ff76-5e33-487f-97c5-86e9aa072637","path":"Conversation.json","metaData":{}}
+files[] = {"id":"11058592-0b9bd687-07f8-495e-a61a-dfe4fe0e0f5e","path":"Extra.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
